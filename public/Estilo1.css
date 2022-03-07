@@ -1,0 +1,23 @@
+#Contenedor-inicio{
+    
+    position: absolute;
+    top:50%;
+    left: 46%;           
+    margin-top: -100px;
+    margin-left: -100px;
+    text-align: center;
+
+}
+
+#Titulo{
+    margin-bottom: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.Boton{
+    margin-top: 10px;
+    background-color: red;
+}
